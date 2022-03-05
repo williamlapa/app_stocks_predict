@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - yfinance 
+  - plotly
+  - ephem
+  - pystan
+  - fbprophet
+  - pip:
+    - streamlit
