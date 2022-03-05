@@ -15,4 +15,5 @@ Plotly (conda install plotly) - Gráficos e dashboards.
 Pystan/Ephem (conda install -c anaconda ephem , conda install -c conda-forge pystan) - bibliotecas auxiliares.
 Streamlit (pip install streamlit) - aplicação web.
 
-## Status - 💻 - Working on it.
+## Status 
+💻 - Working on it.
