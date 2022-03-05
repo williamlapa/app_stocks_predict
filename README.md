@@ -15,5 +15,4 @@ Plotly (conda install plotly) - Gráficos e dashboards.
 Pystan/Ephem (conda install -c anaconda ephem , conda install -c conda-forge pystan) - bibliotecas auxiliares.
 Streamlit (pip install streamlit) - aplicação web.
 
-## Notebook
-[ClassificadorCCEE.ipynb](https://github.com/williamlapa/categorizar_ccee/blob/master/ClassificadorCCEE.ipynb) 💻 - Working on it.
+## Status - 💻 - Working on it.
