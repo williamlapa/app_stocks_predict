@@ -1,4 +1,4 @@
-setramlit
+streamlit
 yfinance 
 plotly
 ephem
