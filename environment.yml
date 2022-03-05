@@ -1,5 +1,5 @@
-conda install yfinance 
-conda install plotly
-conda install -c anaconda ephem
-conda install -c conda-forge pystan
-conda install -c conda-forge fbprophet
+yfinance 
+plotly
+ephem
+pystan
+fbprophet
