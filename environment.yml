@@ -6,5 +6,6 @@ dependencies:
   - ephem
   - pystan
   - fbprophet
+  - pip  
   - pip:
     - streamlit
