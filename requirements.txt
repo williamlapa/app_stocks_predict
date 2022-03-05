@@ -1,1 +1,6 @@
-pip install streamlit
+setramlit
+yfinance 
+plotly
+ephem
+pystan
+fbprophet
